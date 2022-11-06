@@ -1,2 +1,11 @@
-# Changes
-why
+print("Welcome to Test.py")
+login = input("Would you like to login? Answer: ")
+if (login == "Would you like to login? Answer: yes"):
+    user = input("What is your user? Answer: ")
+else:
+    print("Okay then")
+if (user == input("What is your user? Answer: Dog123")
+     print:("bye have a great time", user)
+else:
+    print:("fuck you, hacker imao")
+    need help pls
